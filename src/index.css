@@ -12,6 +12,13 @@ code {
     monospace;
 }
 
-ul {
-  list-style: none;
+body {
+  background-color: slategray;
+}
+
+.Checklist-form {
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  margin-top: -50px;
 }
